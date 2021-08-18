@@ -2,7 +2,7 @@
 
 
 # An Improved Capsule Network Based on Capsule Filter Routing
-Capsule filter routing 论文代码实现
+
 
 > Pytorch implementation for An Improved Capsule Network Based on Capsule Filter Routing.
 
