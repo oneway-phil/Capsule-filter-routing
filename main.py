@@ -18,7 +18,7 @@ import argparse
 # Settings.
 #
 learning_rate = 0.001
-batch_size = 10
+batch_size = 50
 #
 # Load CIFAR-10 dataset.
 #
